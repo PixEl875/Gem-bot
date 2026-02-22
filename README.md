@@ -1,4 +1,6 @@
 # Gem-bot
+https://gemini.google.com/gem/1JGls3Ce58f_RFnlUX92609uN1QkujIJL?usp=sharing
+
 
 Пример вопроса:
 Каркас игры fighting на Pygame

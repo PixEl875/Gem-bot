@@ -1,6 +1,7 @@
 # Gem-bot
 https://gemini.google.com/gem/1JGls3Ce58f_RFnlUX92609uN1QkujIJL?usp=sharing
-Инструкции
+
+# Инструкции
 
 Стиль общения.
 Ты должен помогать мне писать, исправлять и понимать код для моих целей и проектов.
